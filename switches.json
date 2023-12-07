@@ -1,0 +1,1376 @@
+[
+    {
+        "switch": 1,
+        "description": "",
+        "locations": [
+            "Map001.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 37,
+        "description": "",
+        "locations": [
+            "Map002.json EventID: 1"
+        ]
+    },
+    {
+        "switch": 10,
+        "description": "",
+        "locations": [
+            "Map002.json EventID: 1"
+        ]
+    },
+    {
+        "switch": 20,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 3",
+            "Map003.json EventID: 20"
+        ]
+    },
+    {
+        "switch": 82,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 3",
+            "Map003.json EventID: 20"
+        ]
+    },
+    {
+        "switch": 8,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 5"
+        ]
+    },
+    {
+        "switch": 19,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 8"
+        ]
+    },
+    {
+        "switch": 46,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 8",
+            "Map004.json EventID: 18"
+        ]
+    },
+    {
+        "switch": 41,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 8"
+        ]
+    },
+    {
+        "switch": 27,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 10"
+        ]
+    },
+    {
+        "switch": 11,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 16"
+        ]
+    },
+    {
+        "switch": 18,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 18"
+        ]
+    },
+    {
+        "switch": 255,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 21"
+        ]
+    },
+    {
+        "switch": 31,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 23"
+        ]
+    },
+    {
+        "switch": 252,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 24"
+        ]
+    },
+    {
+        "switch": 21,
+        "description": "",
+        "locations": [
+            "Map003.json EventID: 27",
+            "Map005.json EventID: 8",
+            "Map006.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 12,
+        "description": "",
+        "locations": [
+            "Map004.json EventID: 4"
+        ]
+    },
+    {
+        "switch": 250,
+        "description": "",
+        "locations": [
+            "Map004.json EventID: 4"
+        ]
+    },
+    {
+        "switch": 65,
+        "description": "",
+        "locations": [
+            "Map004.json EventID: 9"
+        ]
+    },
+    {
+        "switch": 48,
+        "description": "",
+        "locations": [
+            "Map004.json EventID: 18",
+            "Map018.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 32,
+        "description": "",
+        "locations": [
+            "Map004.json EventID: 18",
+            "Map007.json EventID: 26"
+        ]
+    },
+    {
+        "switch": 33,
+        "description": "",
+        "locations": [
+            "Map004.json EventID: 18"
+        ]
+    },
+    {
+        "switch": 15,
+        "description": "",
+        "locations": [
+            "Map006.json EventID: 5"
+        ]
+    },
+    {
+        "switch": 36,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 7"
+        ]
+    },
+    {
+        "switch": 17,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 7"
+        ]
+    },
+    {
+        "switch": 25,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 8"
+        ]
+    },
+    {
+        "switch": 26,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 8"
+        ]
+    },
+    {
+        "switch": 24,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 13"
+        ]
+    },
+    {
+        "switch": 35,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 17",
+            "Map007.json EventID: 30"
+        ]
+    },
+    {
+        "switch": 39,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 17"
+        ]
+    },
+    {
+        "switch": 47,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 21"
+        ]
+    },
+    {
+        "switch": 53,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 22"
+        ]
+    },
+    {
+        "switch": 34,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 26"
+        ]
+    },
+    {
+        "switch": 52,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 26"
+        ]
+    },
+    {
+        "switch": 49,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 29"
+        ]
+    },
+    {
+        "switch": 50,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 30",
+            "Map007.json EventID: 33"
+        ]
+    },
+    {
+        "switch": 28,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 31"
+        ]
+    },
+    {
+        "switch": 45,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 33",
+            "Map007.json EventID: 35"
+        ]
+    },
+    {
+        "switch": 56,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 35"
+        ]
+    },
+    {
+        "switch": 58,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 35"
+        ]
+    },
+    {
+        "switch": 40,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 35"
+        ]
+    },
+    {
+        "switch": 57,
+        "description": "",
+        "locations": [
+            "Map007.json EventID: 35"
+        ]
+    },
+    {
+        "switch": 16,
+        "description": "",
+        "locations": [
+            "Map009.json EventID: 5"
+        ]
+    },
+    {
+        "switch": 14,
+        "description": "",
+        "locations": [
+            "Map009.json EventID: 6"
+        ]
+    },
+    {
+        "switch": 22,
+        "description": "",
+        "locations": [
+            "Map009.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 38,
+        "description": "",
+        "locations": [
+            "Map011.json EventID: 10"
+        ]
+    },
+    {
+        "switch": 55,
+        "description": "",
+        "locations": [
+            "Map012.json EventID: 13"
+        ]
+    },
+    {
+        "switch": 54,
+        "description": "",
+        "locations": [
+            "Map012.json EventID: 13"
+        ]
+    },
+    {
+        "switch": 44,
+        "description": "",
+        "locations": [
+            "Map012.json EventID: 13"
+        ]
+    },
+    {
+        "switch": 66,
+        "description": "",
+        "locations": [
+            "Map012.json EventID: 13"
+        ]
+    },
+    {
+        "switch": 42,
+        "description": "",
+        "locations": [
+            "Map013.json EventID: 4"
+        ]
+    },
+    {
+        "switch": 68,
+        "description": "",
+        "locations": [
+            "Map013.json EventID: 4"
+        ]
+    },
+    {
+        "switch": 43,
+        "description": "",
+        "locations": [
+            "Map013.json EventID: 12"
+        ]
+    },
+    {
+        "switch": 67,
+        "description": "",
+        "locations": [
+            "Map014.json EventID: 3"
+        ]
+    },
+    {
+        "switch": 59,
+        "description": "",
+        "locations": [
+            "Map017.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 60,
+        "description": "",
+        "locations": [
+            "Map017.json EventID: 9"
+        ]
+    },
+    {
+        "switch": 62,
+        "description": "",
+        "locations": [
+            "Map018.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 64,
+        "description": "",
+        "locations": [
+            "Map018.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 103,
+        "description": "",
+        "locations": [
+            "Map018.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 61,
+        "description": "",
+        "locations": [
+            "Map018.json EventID: 3"
+        ]
+    },
+    {
+        "switch": 63,
+        "description": "",
+        "locations": [
+            "Map018.json EventID: 7"
+        ]
+    },
+    {
+        "switch": 88,
+        "description": "",
+        "locations": [
+            "Map019.json EventID: 1"
+        ]
+    },
+    {
+        "switch": 72,
+        "description": "",
+        "locations": [
+            "Map020.json EventID: 7",
+            "Map026.json EventID: 8"
+        ]
+    },
+    {
+        "switch": 243,
+        "description": "",
+        "locations": [
+            "Map021.json EventID: 3",
+            "Map026.json EventID: 4"
+        ]
+    },
+    {
+        "switch": 71,
+        "description": "",
+        "locations": [
+            "Map021.json EventID: 12"
+        ]
+    },
+    {
+        "switch": 75,
+        "description": "",
+        "locations": [
+            "Map021.json EventID: 15"
+        ]
+    },
+    {
+        "switch": 74,
+        "description": "",
+        "locations": [
+            "Map022.json EventID: 15"
+        ]
+    },
+    {
+        "switch": 69,
+        "description": "",
+        "locations": [
+            "Map022.json EventID: 16",
+            "Map028.json EventID: 6"
+        ]
+    },
+    {
+        "switch": 73,
+        "description": "",
+        "locations": [
+            "Map023.json EventID: 4"
+        ]
+    },
+    {
+        "switch": 77,
+        "description": "",
+        "locations": [
+            "Map024.json EventID: 6",
+            "Map026.json EventID: 4"
+        ]
+    },
+    {
+        "switch": 84,
+        "description": "",
+        "locations": [
+            "Map025.json EventID: 9"
+        ]
+    },
+    {
+        "switch": 244,
+        "description": "",
+        "locations": [
+            "Map025.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 76,
+        "description": "",
+        "locations": [
+            "Map026.json EventID: 4"
+        ]
+    },
+    {
+        "switch": 70,
+        "description": "",
+        "locations": [
+            "Map026.json EventID: 5"
+        ]
+    },
+    {
+        "switch": 195,
+        "description": "",
+        "locations": [
+            "Map026.json EventID: 5"
+        ]
+    },
+    {
+        "switch": 85,
+        "description": "",
+        "locations": [
+            "Map027.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 86,
+        "description": "",
+        "locations": [
+            "Map027.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 87,
+        "description": "",
+        "locations": [
+            "Map028.json EventID: 5"
+        ]
+    },
+    {
+        "switch": 89,
+        "description": "",
+        "locations": [
+            "Map030.json EventID: 5"
+        ]
+    },
+    {
+        "switch": 90,
+        "description": "",
+        "locations": [
+            "Map030.json EventID: 11",
+            "Map030.json EventID: 12",
+            "Map030.json EventID: 13",
+            "Map030.json EventID: 14",
+            "Map034.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 91,
+        "description": "",
+        "locations": [
+            "Map030.json EventID: 29"
+        ]
+    },
+    {
+        "switch": 80,
+        "description": "",
+        "locations": [
+            "Map031.json EventID: 3"
+        ]
+    },
+    {
+        "switch": 81,
+        "description": "",
+        "locations": [
+            "Map031.json EventID: 12"
+        ]
+    },
+    {
+        "switch": 79,
+        "description": "",
+        "locations": [
+            "Map031.json EventID: 14"
+        ]
+    },
+    {
+        "switch": 78,
+        "description": "",
+        "locations": [
+            "Map031.json EventID: 21",
+            "Map032.json EventID: 21",
+            "Map095.json EventID: 5",
+            "Map095.json EventID: 13"
+        ]
+    },
+    {
+        "switch": 224,
+        "description": "",
+        "locations": [
+            "Map032.json EventID: 23"
+        ]
+    },
+    {
+        "switch": 96,
+        "description": "",
+        "locations": [
+            "Map037.json EventID: 2",
+            "Map038.json EventID: 27"
+        ]
+    },
+    {
+        "switch": 92,
+        "description": "",
+        "locations": [
+            "Map037.json EventID: 3"
+        ]
+    },
+    {
+        "switch": 94,
+        "description": "",
+        "locations": [
+            "Map037.json EventID: 16"
+        ]
+    },
+    {
+        "switch": 95,
+        "description": "",
+        "locations": [
+            "Map037.json EventID: 18"
+        ]
+    },
+    {
+        "switch": 93,
+        "description": "",
+        "locations": [
+            "Map037.json EventID: 21"
+        ]
+    },
+    {
+        "switch": 251,
+        "description": "",
+        "locations": [
+            "Map038.json EventID: 4"
+        ]
+    },
+    {
+        "switch": 125,
+        "description": "",
+        "locations": [
+            "Map038.json EventID: 27"
+        ]
+    },
+    {
+        "switch": 97,
+        "description": "",
+        "locations": [
+            "Map041.json EventID: 3"
+        ]
+    },
+    {
+        "switch": 131,
+        "description": "",
+        "locations": [
+            "Map043.json EventID: 10"
+        ]
+    },
+    {
+        "switch": 100,
+        "description": "",
+        "locations": [
+            "Map046.json EventID: 6",
+            "Map046.json EventID: 7"
+        ]
+    },
+    {
+        "switch": 104,
+        "description": "",
+        "locations": [
+            "Map046.json EventID: 15"
+        ]
+    },
+    {
+        "switch": 107,
+        "description": "",
+        "locations": [
+            "Map046.json EventID: 16"
+        ]
+    },
+    {
+        "switch": 99,
+        "description": "",
+        "locations": [
+            "Map046.json EventID: 23",
+            "Map048.json EventID: 16",
+            "Map049.json EventID: 7"
+        ]
+    },
+    {
+        "switch": 140,
+        "description": "",
+        "locations": [
+            "Map046.json EventID: 28"
+        ]
+    },
+    {
+        "switch": 130,
+        "description": "",
+        "locations": [
+            "Map046.json EventID: 30"
+        ]
+    },
+    {
+        "switch": 127,
+        "description": "",
+        "locations": [
+            "Map047.json EventID: 10",
+            "Map049.json EventID: 23"
+        ]
+    },
+    {
+        "switch": 156,
+        "description": "",
+        "locations": [
+            "Map047.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 157,
+        "description": "",
+        "locations": [
+            "Map047.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 138,
+        "description": "",
+        "locations": [
+            "Map047.json EventID: 13",
+            "Map056.json EventID: 9",
+            "Map056.json EventID: 10",
+            "Map056.json EventID: 11",
+            "Map056.json EventID: 12"
+        ]
+    },
+    {
+        "switch": 129,
+        "description": "",
+        "locations": [
+            "Map048.json EventID: 7"
+        ]
+    },
+    {
+        "switch": 132,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 9"
+        ]
+    },
+    {
+        "switch": 135,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 134,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 18"
+        ]
+    },
+    {
+        "switch": 133,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 19"
+        ]
+    },
+    {
+        "switch": 128,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 20"
+        ]
+    },
+    {
+        "switch": 254,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 21"
+        ]
+    },
+    {
+        "switch": 114,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 23"
+        ]
+    },
+    {
+        "switch": 113,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 25"
+        ]
+    },
+    {
+        "switch": 247,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 26"
+        ]
+    },
+    {
+        "switch": 115,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 28"
+        ]
+    },
+    {
+        "switch": 116,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 29"
+        ]
+    },
+    {
+        "switch": 175,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 30"
+        ]
+    },
+    {
+        "switch": 177,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 30"
+        ]
+    },
+    {
+        "switch": 117,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 30"
+        ]
+    },
+    {
+        "switch": 123,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 30",
+            "Map049.json EventID: 42"
+        ]
+    },
+    {
+        "switch": 118,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 30"
+        ]
+    },
+    {
+        "switch": 121,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 34"
+        ]
+    },
+    {
+        "switch": 126,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 34"
+        ]
+    },
+    {
+        "switch": 119,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 34",
+            "Map049.json EventID: 42",
+            "Map049.json EventID: 43"
+        ]
+    },
+    {
+        "switch": 120,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 35"
+        ]
+    },
+    {
+        "switch": 122,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 37"
+        ]
+    },
+    {
+        "switch": 124,
+        "description": "",
+        "locations": [
+            "Map049.json EventID: 43"
+        ]
+    },
+    {
+        "switch": 101,
+        "description": "",
+        "locations": [
+            "Map050.json EventID: 4"
+        ]
+    },
+    {
+        "switch": 102,
+        "description": "",
+        "locations": [
+            "Map050.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 106,
+        "description": "",
+        "locations": [
+            "Map052.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 108,
+        "description": "",
+        "locations": [
+            "Map052.json EventID: 7",
+            "Map053.json EventID: 7"
+        ]
+    },
+    {
+        "switch": 109,
+        "description": "",
+        "locations": [
+            "Map052.json EventID: 7",
+            "Map053.json EventID: 105"
+        ]
+    },
+    {
+        "switch": 110,
+        "description": "",
+        "locations": [
+            "Map052.json EventID: 7",
+            "Map053.json EventID: 21"
+        ]
+    },
+    {
+        "switch": 111,
+        "description": "",
+        "locations": [
+            "Map053.json EventID: 5",
+            "Map053.json EventID: 62"
+        ]
+    },
+    {
+        "switch": 112,
+        "description": "",
+        "locations": [
+            "Map053.json EventID: 105"
+        ]
+    },
+    {
+        "switch": 139,
+        "description": "",
+        "locations": [
+            "Map054.json EventID: 3",
+            "Map056.json EventID: 9",
+            "Map056.json EventID: 10",
+            "Map056.json EventID: 11",
+            "Map056.json EventID: 13",
+            "Map056.json EventID: 14"
+        ]
+    },
+    {
+        "switch": 136,
+        "description": "",
+        "locations": [
+            "Map055.json EventID: 5"
+        ]
+    },
+    {
+        "switch": 137,
+        "description": "",
+        "locations": [
+            "Map055.json EventID: 5"
+        ]
+    },
+    {
+        "switch": 141,
+        "description": "",
+        "locations": [
+            "Map056.json EventID: 9"
+        ]
+    },
+    {
+        "switch": 142,
+        "description": "",
+        "locations": [
+            "Map056.json EventID: 9"
+        ]
+    },
+    {
+        "switch": 143,
+        "description": "",
+        "locations": [
+            "Map056.json EventID: 9"
+        ]
+    },
+    {
+        "switch": 144,
+        "description": "",
+        "locations": [
+            "Map056.json EventID: 10"
+        ]
+    },
+    {
+        "switch": 145,
+        "description": "",
+        "locations": [
+            "Map056.json EventID: 10"
+        ]
+    },
+    {
+        "switch": 146,
+        "description": "",
+        "locations": [
+            "Map056.json EventID: 10"
+        ]
+    },
+    {
+        "switch": 147,
+        "description": "",
+        "locations": [
+            "Map056.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 148,
+        "description": "",
+        "locations": [
+            "Map056.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 149,
+        "description": "",
+        "locations": [
+            "Map056.json EventID: 11"
+        ]
+    },
+    {
+        "switch": 150,
+        "description": "",
+        "locations": [
+            "Map057.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 152,
+        "description": "",
+        "locations": [
+            "Map057.json EventID: 4"
+        ]
+    },
+    {
+        "switch": 153,
+        "description": "",
+        "locations": [
+            "Map057.json EventID: 5"
+        ]
+    },
+    {
+        "switch": 154,
+        "description": "",
+        "locations": [
+            "Map057.json EventID: 6"
+        ]
+    },
+    {
+        "switch": 155,
+        "description": "",
+        "locations": [
+            "Map057.json EventID: 15",
+            "Map057.json EventID: 19"
+        ]
+    },
+    {
+        "switch": 179,
+        "description": "",
+        "locations": [
+            "Map059.json EventID: 9"
+        ]
+    },
+    {
+        "switch": 178,
+        "description": "",
+        "locations": [
+            "Map059.json EventID: 58"
+        ]
+    },
+    {
+        "switch": 176,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 9"
+        ]
+    },
+    {
+        "switch": 173,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 12"
+        ]
+    },
+    {
+        "switch": 170,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 14"
+        ]
+    },
+    {
+        "switch": 253,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 14",
+            "Map060.json EventID: 22",
+            "Map060.json EventID: 25"
+        ]
+    },
+    {
+        "switch": 171,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 14"
+        ]
+    },
+    {
+        "switch": 159,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 15"
+        ]
+    },
+    {
+        "switch": 166,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 15",
+            "Map060.json EventID: 20",
+            "Map060.json EventID: 21"
+        ]
+    },
+    {
+        "switch": 160,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 20"
+        ]
+    },
+    {
+        "switch": 164,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 21"
+        ]
+    },
+    {
+        "switch": 168,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 22"
+        ]
+    },
+    {
+        "switch": 226,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 22",
+            "Map060.json EventID: 25"
+        ]
+    },
+    {
+        "switch": 169,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 22"
+        ]
+    },
+    {
+        "switch": 172,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 29"
+        ]
+    },
+    {
+        "switch": 167,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 29"
+        ]
+    },
+    {
+        "switch": 174,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 31"
+        ]
+    },
+    {
+        "switch": 165,
+        "description": "",
+        "locations": [
+            "Map060.json EventID: 34"
+        ]
+    },
+    {
+        "switch": 248,
+        "description": "",
+        "locations": [
+            "Map062.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 249,
+        "description": "",
+        "locations": [
+            "Map076.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 231,
+        "description": "",
+        "locations": [
+            "Map076.json EventID: 4",
+            "Map076.json EventID: 17",
+            "Map090.json EventID: 10",
+            "Map090.json EventID: 15",
+            "Map090.json EventID: 43"
+        ]
+    },
+    {
+        "switch": 234,
+        "description": "",
+        "locations": [
+            "Map076.json EventID: 15",
+            "Map076.json EventID: 19",
+            "Map090.json EventID: 7",
+            "Map090.json EventID: 29"
+        ]
+    },
+    {
+        "switch": 236,
+        "description": "",
+        "locations": [
+            "Map090.json EventID: 7",
+            "Map090.json EventID: 29"
+        ]
+    },
+    {
+        "switch": 233,
+        "description": "",
+        "locations": [
+            "Map090.json EventID: 11",
+            "Map090.json EventID: 17",
+            "Map090.json EventID: 43"
+        ]
+    },
+    {
+        "switch": 235,
+        "description": "",
+        "locations": [
+            "Map090.json EventID: 19",
+            "Map090.json EventID: 20",
+            "Map090.json EventID: 22"
+        ]
+    },
+    {
+        "switch": 256,
+        "description": "",
+        "locations": [
+            "Map090.json EventID: 24",
+            "Map090.json EventID: 25",
+            "Map090.json EventID: 27",
+            "Map090.json EventID: 31",
+            "Map090.json EventID: 43"
+        ]
+    },
+    {
+        "switch": 232,
+        "description": "",
+        "locations": [
+            "Map090.json EventID: 26",
+            "Map090.json EventID: 39",
+            "Map090.json EventID: 43"
+        ]
+    },
+    {
+        "switch": 240,
+        "description": "",
+        "locations": [
+            "Map092.json EventID: 1"
+        ]
+    },
+    {
+        "switch": 239,
+        "description": "",
+        "locations": [
+            "Map092.json EventID: 2"
+        ]
+    },
+    {
+        "switch": 242,
+        "description": "",
+        "locations": [
+            "Map093.json EventID: 8"
+        ]
+    },
+    {
+        "switch": 237,
+        "description": "",
+        "locations": [
+            "Map094.json EventID: 4",
+            "Map094.json EventID: 5",
+            "Map094.json EventID: 6",
+            "Map094.json EventID: 7"
+        ]
+    },
+    {
+        "switch": 245,
+        "description": "",
+        "locations": [
+            "Map095.json EventID: 6",
+            "Map095.json EventID: 7",
+            "Map095.json EventID: 14",
+            "Map095.json EventID: 15"
+        ]
+    },
+    {
+        "switch": 246,
+        "description": "",
+        "locations": [
+            "Map095.json EventID: 13"
+        ]
+    }
+]
